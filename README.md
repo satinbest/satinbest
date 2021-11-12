@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm SatinBest</h1>
 <h3 align="center">A passionate backend developer from Iran</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=satinbest&label=Profile%20views&color=0e75b6&style=flat-square" alt="satinbest" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satinbest" alt="satinbest" /></a> </p>
+
 - 🔭 I’m currently working on [sectour](http://sectour.ir/)
 
 - 🌱 I’m currently learning **PHP,LARAVEL,JQUERY,JAVASCRIPT**
