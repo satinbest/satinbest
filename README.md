@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satinbest&label=Profile%20views&color=0e75b6&style=flat-square" alt="satinbest" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satinbest" alt="satinbest" /></a> </p>
-
 - 🔭 I’m currently working on [sectour](http://sectour.ir/)
 
 - 🌱 I’m currently learning **PHP,LARAVEL,JQUERY,JAVASCRIPT**
@@ -34,6 +32,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satinbest&show_icons=true&locale=en&layout=compact" alt="satinbest" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satinbest&show_icons=true&theme=onedark&title_color=409eb5&text_color=ffffff&locale=fa" alt="satinbest" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satinbest&theme=dark" alt="satinbest" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satinbest&theme=default" alt="satinbest" /></p>
