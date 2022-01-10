@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [sectour](http://sectour.ir/)
 
-- 🌱 I’m currently learning **PHP,LARAVEL,JQUERY,JAVASCRIPT**
+- 🌱 I’m currently learning **PHP,LARAVEL,JQUERY**
 
 - 👯 I’m looking to collaborate on [Wordpress](https://wordpress.org)
 
