@@ -3,21 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satinbest&label=Profile%20views&color=0e75b6&style=flat-square" alt="satinbest" /> </p>
 
-- 🔭 I’m currently working on [sectour](http://sectour.ir/)
-
-- 🌱 I’m currently learning **PHP,LARAVEL,JQUERY**
-
 - 👯 I’m looking to collaborate on [Wordpress](https://wordpress.org)
-
-- 🤝 I’m looking for help with [Taf theme](https://github.com/satinbest/TAF)
 
 - 👨‍💻 All of my projects are available at [https://github.com/satinbest](https://github.com/satinbest)
 
-- 📝 I regularly write articles on [https://phpgeek.ir](https://phpgeek.ir)
-
 - 💬 Ask me about **Wordpress**
 
-- 📫 How to reach me **2ksky92@gmail.com**
+- 📫 How to reach me **info@hosseinmohammadpour.ir**
 
 - 📄 Know about my experiences [#](#)
 
