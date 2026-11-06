@@ -1,31 +1,108 @@
-<h1 align="center">Hi 👋, I'm Hossein mohammadpour</h1>
-<h3 align="center">A passionate backend developer from Iran</h3>
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satinbest&label=Profile%20views&color=0e75b6&style=flat-square" alt="satinbest" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0e75b6,100:6f42c1&text=Hossein%20Mohammadpour&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20WordPress%20%26%20Laravel&descAlignY=58&descSize=18" alt="header" />
 
-- 👯 I’m looking to collaborate on [Wordpress](https://wordpress.org)
+<a href="https://github.com/satinbest">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Backend+Developer+from+Iran;WordPress+Theme+%26+Plugin+Development;PHP+%C2%B7+Laravel+%C2%B7+MySQL;Building+clean%2C+fast+web+solutions" alt="Typing SVG" />
+</a>
 
-- 👨‍💻 All of my projects are available at [https://github.com/satinbest](https://github.com/satinbest)
+<br/>
 
-- 💬 Ask me about **Wordpress**
+<a href="https://phpgeek.ir"><img src="https://img.shields.io/badge/Website-phpgeek.ir-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="mailto:info@hosseinmohammadpour.ir"><img src="https://img.shields.io/badge/Email-Contact%20Me-6f42c1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=satinbest&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
-- 📫 How to reach me **info@hosseinmohammadpour.ir**
+</div>
 
-- 📄 Know about my experiences [#](#)
+---
 
-- ⚡ Fun fact **WordPress is exciting**
+## 👋 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="#" height="30" width="40" /></a>
-<a href="https://instagram.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="#" height="30" width="40" /></a>
-<a href="https://medium.com/@#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@#" height="30" width="40" /></a>
-</p>
+I'm **Hossein Mohammadpour**, a backend developer from Iran. I specialize in **PHP**, **Laravel** and **WordPress** (custom themes and plugins), and I enjoy turning ideas into fast, maintainable web projects.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+- 🔧 Building WordPress themes and plugins
+- 🛒 Developing e-commerce and store templates
+- 🗄️ Working with MySQL / MariaDB databases
+- 🤝 Open to collaboration, especially on **WordPress** projects
+- 💬 Ask me about **WordPress**, **PHP** and **Laravel**
+- ⚡ Fun fact: WordPress is exciting!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satinbest&show_icons=true&locale=en&layout=compact" alt="satinbest" /></p>
+<details>
+<summary><b>🇮🇷 درباره من (فارسی)</b></summary>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satinbest&theme=default" alt="satinbest" /></p>
+<div dir="rtl">
+
+سلام! من **حسین محمدپور** هستم، توسعه‌دهنده‌ی بک‌اند از ایران. تخصص اصلی من **PHP**، **Laravel** و **وردپرس** (طراحی قالب و پلاگین اختصاصی) است و از ساختن پروژه‌های وب سریع و قابل نگهداری لذت می‌برم.
+
+- 🔧 طراحی و توسعه‌ی قالب و پلاگین وردپرس
+- 🛒 توسعه‌ی قالب‌های فروشگاهی
+- 🗄️ کار با پایگاه داده‌ی MySQL و MariaDB
+- 🤝 آماده‌ی همکاری، به‌ویژه در پروژه‌های **وردپرس**
+- 🌐 وب‌سایت من: [phpgeek.ir](https://phpgeek.ir)
+
+</div>
+
+</details>
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,wordpress" alt="Backend" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" alt="Frontend" />
+
+**Database & Tools**
+
+<img src="https://skillicons.dev/icons?i=mysql,mariadb,git,github" alt="Database and tools" />
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Language |
+| :-- | :-- | :-- |
+| [**mprTheme**](https://github.com/satinbest/mprTheme) | قالب فروشگاهی MPRTHEME, a store theme | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+
+<!-- TODO: add your other original projects here, for example:
+| [**project-name**](https://github.com/satinbest/project-name) | Short description | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+-->
+
+📂 More repositories: [github.com/satinbest?tab=repositories](https://github.com/satinbest?tab=repositories)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=satinbest&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satinbest&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=satinbest&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://phpgeek.ir"><img src="https://img.shields.io/badge/Website-phpgeek.ir-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="mailto:info@hosseinmohammadpour.ir"><img src="https://img.shields.io/badge/Email-info@hosseinmohammadpour.ir-6f42c1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<!-- TODO: uncomment and fill in the ones you actually use
+<a href="https://linkedin.com/in/YOUR_ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://t.me/YOUR_ID"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://stackoverflow.com/users/YOUR_ID"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+-->
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6f42c1,100:0e75b6&section=footer" alt="footer" width="100%" />
