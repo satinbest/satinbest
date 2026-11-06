@@ -1,108 +1,167 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ============================ HERO ============================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0e75b6,100:6f42c1&text=Hossein%20Mohammadpour&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20WordPress%20%26%20Laravel&descAlignY=58&descSize=18" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0e75b6,50:6f42c1,100:ff4f8b&text=Hossein%20Mohammadpour&fontColor=ffffff&fontSize=46&fontAlignY=42&animation=fadeIn&desc=%3C%3Fphp%20echo%20'Hello%2C%20World!'%3B%20%3F%3E&descAlignY=66&descSize=20" alt="header" width="100%" />
 
 <a href="https://github.com/satinbest">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Backend+Developer+from+Iran;WordPress+Theme+%26+Plugin+Development;PHP+%C2%B7+Laravel+%C2%B7+MySQL;Building+clean%2C+fast+web+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=6F42C1&center=true&vCenter=true&width=700&height=45&lines=%24+whoami+%E2%86%92+Backend+Developer+from+Iran;%24+stack+%E2%86%92+PHP+%C2%B7+Laravel+%C2%B7+WordPress;%24+do_action(+'build_something_awesome'+)%3B;%24+echo+%22WordPress+is+exciting!%22" alt="typing" />
 </a>
 
-<br/>
+<br/><br/>
 
-<a href="https://phpgeek.ir"><img src="https://img.shields.io/badge/Website-phpgeek.ir-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-<a href="mailto:info@hosseinmohammadpour.ir"><img src="https://img.shields.io/badge/Email-Contact%20Me-6f42c1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=satinbest&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<a href="https://phpgeek.ir"><img src="https://img.shields.io/badge/🌐_phpgeek.ir-0e75b6?style=for-the-badge" alt="Website" /></a>
+<a href="mailto:info@hosseinmohammadpour.ir"><img src="https://img.shields.io/badge/✉️_Hire_me-ff4f8b?style=for-the-badge" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=satinbest&label=Visitors&color=6f42c1&style=for-the-badge" alt="views" />
 
 </div>
 
----
+<br/>
 
-## 👋 About Me
+<!-- ============================ ABOUT AS CODE ============================ -->
+## 🧬 My DNA, in PHP
 
-I'm **Hossein Mohammadpour**, a backend developer from Iran. I specialize in **PHP**, **Laravel** and **WordPress** (custom themes and plugins), and I enjoy turning ideas into fast, maintainable web projects.
+```php
+<?php
 
-- 🔧 Building WordPress themes and plugins
-- 🛒 Developing e-commerce and store templates
-- 🗄️ Working with MySQL / MariaDB databases
-- 🤝 Open to collaboration, especially on **WordPress** projects
-- 💬 Ask me about **WordPress**, **PHP** and **Laravel**
-- ⚡ Fun fact: WordPress is exciting!
+namespace Satinbest;
+
+final class Hossein extends Developer
+{
+    public string $name     = 'Hossein Mohammadpour';
+    public string $location = 'Iran 🇮🇷';
+    public string $role     = 'Backend Developer';
+
+    /** What I'm best at */
+    public array $superpowers = [
+        'WordPress'  => 'Custom themes & plugins',
+        'Laravel'    => 'Clean, structured web apps',
+        'PHP'        => 'The language I think in',
+        'MySQL'      => 'Databases that stay fast',
+    ];
+
+    /** What I'm up to */
+    public string $currentFocus = '🎯 WordPress development';
+    public bool   $openToCollab = true;
+
+    public function funFact(): string
+    {
+        return 'WordPress is exciting ⚡';
+    }
+
+    public function contact(): string
+    {
+        return 'info@hosseinmohammadpour.ir';
+    }
+}
+```
 
 <details>
-<summary><b>🇮🇷 درباره من (فارسی)</b></summary>
+<summary><b>🇮🇷 به فارسی بخون (درباره من)</b></summary>
 
 <div dir="rtl">
 
-سلام! من **حسین محمدپور** هستم، توسعه‌دهنده‌ی بک‌اند از ایران. تخصص اصلی من **PHP**، **Laravel** و **وردپرس** (طراحی قالب و پلاگین اختصاصی) است و از ساختن پروژه‌های وب سریع و قابل نگهداری لذت می‌برم.
+سلام! من **حسین محمدپور** هستم؛ توسعه‌دهنده‌ی بک‌اند از ایران 👋
 
-- 🔧 طراحی و توسعه‌ی قالب و پلاگین وردپرس
-- 🛒 توسعه‌ی قالب‌های فروشگاهی
-- 🗄️ کار با پایگاه داده‌ی MySQL و MariaDB
-- 🤝 آماده‌ی همکاری، به‌ویژه در پروژه‌های **وردپرس**
-- 🌐 وب‌سایت من: [phpgeek.ir](https://phpgeek.ir)
+عاشق ساختن چیزهای کاربردی با **PHP**، **Laravel** و **وردپرس** هستم، از طراحی قالب و پلاگین اختصاصی گرفته تا قالب‌های فروشگاهی.
+
+- 🎯 تمرکز فعلی: توسعه‌ی وردپرس
+- 🤝 آماده‌ی همکاری در پروژه‌های وردپرس
+- 🌐 وب‌سایت: [phpgeek.ir](https://phpgeek.ir)
+- ⚡ نکته‌ی جالب: وردپرس واقعاً هیجان‌انگیزه!
 
 </div>
 
 </details>
 
----
+<!-- ============================ WP HOOKS ============================ -->
+## 🪝 My work style, as WordPress hooks
 
-## 🛠️ Tech Stack
+```php
+add_action( 'init',            'start_with_a_clear_plan' );
+add_action( 'wp_enqueue_scripts', 'keep_assets_light_and_fast' );
+add_filter( 'the_code',        'write_it_clean_and_readable' );
+add_action( 'save_post',       'commit_early_and_often' );
+add_action( 'wp_footer',       'never_stop_learning' );
+```
 
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=php,laravel,wordpress" alt="Backend" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" alt="Frontend" />
-
-**Database & Tools**
-
-<img src="https://skillicons.dev/icons?i=mysql,mariadb,git,github" alt="Database and tools" />
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Language |
-| :-- | :-- | :-- |
-| [**mprTheme**](https://github.com/satinbest/mprTheme) | قالب فروشگاهی MPRTHEME, a store theme | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
-
-<!-- TODO: add your other original projects here, for example:
-| [**project-name**](https://github.com/satinbest/project-name) | Short description | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
--->
-
-📂 More repositories: [github.com/satinbest?tab=repositories](https://github.com/satinbest?tab=repositories)
-
----
-
-## 📊 GitHub Stats
+<!-- ============================ STACK ============================ -->
+## ⚙️ Arsenal
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=satinbest&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satinbest&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=satinbest&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+| | |
+| :--: | :--: |
+| **🧠 Backend** | <img src="https://skillicons.dev/icons?i=php,laravel,wordpress" alt="backend" /> |
+| **🎨 Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" alt="frontend" /> |
+| **🗄️ Data** | <img src="https://skillicons.dev/icons?i=mysql,mariadb" alt="data" /> |
+| **🧰 Tools** | <img src="https://skillicons.dev/icons?i=git,github" alt="tools" /> |
 
 </div>
 
----
+<!-- ============================ PROJECTS ============================ -->
+## 🚀 Featured Work
 
-## 📫 Let's Connect
+<div align="center">
+
+<a href="https://github.com/satinbest/mprTheme">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=satinbest&repo=mprTheme&theme=tokyonight&hide_border=true" alt="mprTheme" />
+</a>
+
+</div>
+
+<!-- TODO: add more of YOUR OWN projects the same way (change repo=...):
+<a href="https://github.com/satinbest/REPO_NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=satinbest&repo=REPO_NAME&theme=tokyonight&hide_border=true" />
+</a>
+-->
+
+> 📦 Everything else lives here → [**github.com/satinbest?tab=repositories**](https://github.com/satinbest?tab=repositories)
+
+<!-- ============================ STATS ============================ -->
+## 📈 The numbers
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=satinbest&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satinbest&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=satinbest&theme=tokyonight&hide_border=true" alt="streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=satinbest&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
+
+</div>
+
+<!-- ============================ SNAKE ============================ -->
+<!-- Needs the workflow file: .github/workflows/snake.yml (included separately) -->
+## 🐍 Contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satinbest/satinbest/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/satinbest/satinbest/output/github-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/satinbest/satinbest/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<!-- ============================ CONTACT ============================ -->
+## 📡 Ping me
 
 <div align="center">
 
 <a href="https://phpgeek.ir"><img src="https://img.shields.io/badge/Website-phpgeek.ir-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-<a href="mailto:info@hosseinmohammadpour.ir"><img src="https://img.shields.io/badge/Email-info@hosseinmohammadpour.ir-6f42c1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:info@hosseinmohammadpour.ir"><img src="https://img.shields.io/badge/Email-info@hosseinmohammadpour.ir-ff4f8b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<!-- TODO: uncomment and fill in the ones you actually use
+<!-- TODO: uncomment the ones you actually use and set your ID
 <a href="https://linkedin.com/in/YOUR_ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://t.me/YOUR_ID"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="https://stackoverflow.com/users/YOUR_ID"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
 -->
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=0E75B6&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by+%F0%9F%91%8B;Have+a+project+in+mind%3F+Let's+build+it.;return+%22see+you+soon%22%3B" alt="footer typing" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6f42c1,100:0e75b6&section=footer" alt="footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:ff4f8b,50:6f42c1,100:0e75b6&section=footer" alt="footer" width="100%" />
