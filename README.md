@@ -103,16 +103,14 @@ add_action( 'wp_footer',       'never_stop_learning' );
 
 <div align="center">
 
-<a href="https://github.com/satinbest/mprTheme">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=satinbest&repo=mprTheme&theme=tokyonight&hide_border=true" alt="mprTheme" />
-</a>
+| Project | About | Status |
+| :-- | :-- | :-- |
+| [**🛍️ mprTheme**](https://github.com/satinbest/mprTheme) | قالب فروشگاهی MPRTHEME — a store theme | ![Last commit](https://img.shields.io/github/last-commit/satinbest/mprTheme?style=flat-square&color=6f42c1) |
 
 </div>
 
-<!-- TODO: add more of YOUR OWN projects the same way (change repo=...):
-<a href="https://github.com/satinbest/REPO_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=satinbest&repo=REPO_NAME&theme=tokyonight&hide_border=true" />
-</a>
+<!-- TODO: add more of YOUR OWN projects as extra rows:
+| [**Project name**](https://github.com/satinbest/REPO_NAME) | Short description | ![Last commit](https://img.shields.io/github/last-commit/satinbest/REPO_NAME?style=flat-square&color=6f42c1) |
 -->
 
 > 📦 Everything else lives here → [**github.com/satinbest?tab=repositories**](https://github.com/satinbest?tab=repositories)
@@ -122,28 +120,40 @@ add_action( 'wp_footer',       'never_stop_learning' );
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=satinbest&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satinbest&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=satinbest&theme=tokyonight&hide_border=true" alt="streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=satinbest&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
+<br/>
+
+<img src="https://img.shields.io/github/followers/satinbest?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="followers" />
+<img src="https://img.shields.io/github/stars/satinbest/mprTheme?label=mprTheme%20stars&style=for-the-badge&color=ff4f8b&logo=github" alt="stars" />
 
 </div>
 
-<!-- ============================ SNAKE ============================ -->
-<!-- Needs the workflow file: .github/workflows/snake.yml (included separately) -->
-## 🐍 Contribution snake
+<!-- ============================ WORDPRESS ============================ -->
+## 💙 Why I love WordPress
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satinbest/satinbest/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/satinbest/satinbest/output/github-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/satinbest/satinbest/output/github-snake.svg" />
-</picture>
+<img src="https://img.shields.io/badge/WordPress-I%20%E2%9D%A4%EF%B8%8F%20it-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=21759B&center=true&vCenter=true&width=600&lines=Code+is+Poetry+%E2%9C%A8;Themes.+Plugins.+Hooks.+Endless+possibilities.;I+build+with+WordPress+%E2%9D%A4%EF%B8%8F" alt="WordPress typing" />
 
 </div>
+
+```php
+<?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
+
+    <?php echo 'I ❤️ WordPress'; ?>
+
+<?php endwhile; endif; ?>
+```
+
+- 🌍 Open source, with a huge community behind it
+- 🎨 Themes and plugins let me build almost anything
+- 🪝 Hooks and filters make it beautifully extensible
+- ⚡ And honestly, it's just exciting to work with
 
 <!-- ============================ CONTACT ============================ -->
 ## 📡 Ping me
